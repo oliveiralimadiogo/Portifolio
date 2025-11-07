@@ -76,6 +76,12 @@ O app estará disponível em:
 
 ---
 
+## Deploy Vercel
+
+Url do portifolio no vercel: https://portifolio-oliveiralimadiogo.vercel.app 
+
+---
+
 ## 👨‍💻 Autor
 Diogo Oliveira Lima - 562599
 
